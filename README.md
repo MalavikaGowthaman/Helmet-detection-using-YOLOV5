@@ -1,4 +1,4 @@
-#Helmet Detection Using YOLOv5
+# Helmet Detection Using YOLOv5
 
 This project implements a motorcycle helmet detection system using the YOLOv5 object detection model. The system identifies whether riders are wearing helmets, which is crucial for enhancing safety and compliance.
 
